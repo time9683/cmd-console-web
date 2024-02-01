@@ -38,10 +38,9 @@ menu.config = { key:"m",
             callback () {open("https://www.linkedin.com")}
         }
     ]
-    }]
-    menu.render()
-        
+    }]    
 }
+    menu.render()
 
 ```
 
