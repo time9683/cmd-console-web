@@ -40,6 +40,9 @@ static get styles() {
     }
 
 
+    dialog:focus {
+        outline: none;
+    }
 
     
     dialog {
