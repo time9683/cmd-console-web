@@ -1,0 +1,16 @@
+{
+  "name": "cmd-console-web",
+  "version": "0.0.1",
+  "description": "a web cmd console  menu",
+  "main": "./src/keyshort.js",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "web",
+    "menu",
+    "console"
+  ],
+  "author": "time9683",
+  "license": "ISC"
+}
